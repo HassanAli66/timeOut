@@ -1,2 +1,3 @@
 # timeOut
-Chess timer with classic and custom modes and bonuses
+
+This new Flutter project is a chess timer with classic and customizable modes.
